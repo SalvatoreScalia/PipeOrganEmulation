@@ -5,6 +5,7 @@ Hardware:
 Controlador Midi Impact GX61: https://nektartech.com/impact-gx49-61/
 
 Yamaha YDP-131: https://cutt.ly/KxqLYMY (Amazon)
+Inteface MIDI Yamaha UX16: https://bit.ly/3fsOZWj (ebay)
 
 Controlador Driver Board (Hdmi +VGA+2AV): https://bit.ly/3m0zA0J (Ebay)
 
